@@ -2,7 +2,7 @@
 
 var data = artoo.scrape('.table-testers tbody tr', {
 	name: function($) {
-			return $(this).find('.tt-name span:first').text().trim()
+		return $(this).find('.tt-name span:first').text().trim()
 	},
 	email: function($) {
 		return $(this).find('.tt-email span:first').text().trim()
