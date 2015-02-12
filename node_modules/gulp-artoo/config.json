@@ -1,0 +1,11 @@
+{
+  "defaults": {
+    "url": null,
+    "clipboard": true,
+    "loadingText": "artoo.js is loading...",
+    "random": false,
+    "settings": {},
+    "version": "latest"
+  },
+  "prodUrl": "//medialab.github.io/artoo/public/dist/"
+}

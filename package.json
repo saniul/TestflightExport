@@ -1,0 +1,15 @@
+{
+  "name": "hackernews-scraper",
+  "version": "0.1.0",
+  "description": "A little artoo.js bookmarklet to scrape and download the first three pages of the famous Hacker News.",
+  "main": "index.js",
+  "author": "Yomguithereal",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "~3.8.7",
+    "gulp-uglify": "~0.3.1",
+    "gulp-artoo": "0.0.1",
+    "gulp-clipboard": "~0.1.1",
+    "gulp-rename": "~1.2.0"
+  }
+}
